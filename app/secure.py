@@ -3,3 +3,4 @@
     数据库密码等
 """
 
+SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:root@localhost:3306/test'
